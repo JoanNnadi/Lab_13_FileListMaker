@@ -231,7 +231,7 @@ public class menuChoiceProgram {
     }
 
     // ------------------------------------------------------------
-    // MENU FILE OPERATIONS (NIO)
+    //  MENU FILE OPERATIONS (NIO)
     // ------------------------------------------------------------
 
     private static void openList(Scanner in, ArrayList<String> list)
